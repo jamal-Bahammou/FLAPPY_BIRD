@@ -2,7 +2,7 @@
 
 ![Thumbnail](screenshot.png)
 
-A Simple Game App made with Python using the Pygame platform, to play use the K_SPACE or K_UP 
+A Simple Game App made with PYTHON using the PYGAME platform, to play use the K_SPACE or K_UP 
 
 ## Getting Started
 
@@ -18,7 +18,11 @@ pip install pygame
 
 ### Installing
 
-Clone the Repository and run
+Clone the Repository by runing
+
+```
+git clone https://github.com/jamal-Bahammou/FLAPPY_BIRD.git
+```
 
 ### Lunch the game
 
@@ -37,4 +41,4 @@ Please feel free to send pull request if you want to contribute!
 
 ## Authors
 
-- **Jamal Bahammou** - _Development_ - [jamal-Bahammou](https://github.com/fidalgodev)
+- **Jamal Bahammou** - _Computer Science Student_ - [jamal-Bahammou](https://github.com/fidalgodev)
