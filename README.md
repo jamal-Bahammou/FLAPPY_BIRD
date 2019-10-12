@@ -2,7 +2,7 @@
 
 ![Thumbnail](screenshot.png)
 
-A Simple Game App made with Python using the Pygame platform
+A Simple Game App made with Python using the Pygame platform, to play use the K_SPACE or K_UP 
 
 ## Getting Started
 
@@ -19,6 +19,8 @@ pip install pygame
 ### Installing
 
 Clone the Repository and run
+
+### Lunch the game
 
 ```
 python main.py
